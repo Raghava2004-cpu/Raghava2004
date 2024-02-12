@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghava2004-cpu
+- 👋 Hi, I’m @Raghava2004
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on 
